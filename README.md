@@ -20,6 +20,21 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
+### Run Locally
+
+To run **Dashboard** locally, run this command on your git bash:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/amansharma9634/dashboard.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/amansharma9634/dashboard.git
+```
 
 ### License
 
